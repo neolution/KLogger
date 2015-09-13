@@ -137,6 +137,7 @@ Here's the full list:
 | prefix  | 'log_' | The log file prefix |
 | logFormat | `false` | Format of log entries |
 | appendContext | `true` | When `false`, don't append context to log entries |
+| createNew | `false` | When `true`, the log file will always be overwritten |
 
 ### Log Formatting
 
